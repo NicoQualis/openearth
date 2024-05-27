@@ -1,0 +1,14 @@
+{
+  "name": "openearth",
+  "version": "1.0.0",
+  "description": "Regresion",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Qualis",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.44.1"
+  }
+}
